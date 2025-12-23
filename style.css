@@ -12,3 +12,6 @@ p {
   color: #555;
   max-width: 600px;
 }
+p {
+  line-height: 1.6;
+}
