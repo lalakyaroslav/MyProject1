@@ -57,3 +57,8 @@ https://lalakyaroslav.github.io/MyProject1/
 
 Yaroslav Lalak  
 Навчальний проєкт
+
+## Git workflow
+
+- Робота з гілками
+- Merge змін у main
